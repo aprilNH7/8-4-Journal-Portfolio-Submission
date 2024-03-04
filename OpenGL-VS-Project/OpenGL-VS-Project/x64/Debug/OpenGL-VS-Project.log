@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OpenGL-Project\OpenGL-VS-Project\OpenGL-VS-Project\main.cpp(155,33): warning C4101: 'texCoordVBO': unreferenced local variable
+  OpenGL-VS-Project.vcxproj -> D:\OpenGL-Project\OpenGL-VS-Project\x64\Debug\OpenGL-VS-Project.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
